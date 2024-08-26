@@ -153,7 +153,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 ValiantCat Tech
+            &copy; 2024 ValiantCat Tech
             {/*. Design by{" "}*/}
             {/*<a href="http://www.vvicat.com" rel="nofollow">*/}
             {/*  TemplateWire*/}

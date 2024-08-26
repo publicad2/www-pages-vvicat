@@ -20,7 +20,7 @@ export const Navigation = (props) => {
           <a className="navbar-brand page-scroll" href="#page-top">
             {/*React Landing Page*/}
             {/*Home*/}
-            <img src="src/logo.svg" alt="logo" />
+            <img src="logo.svg" alt="logo" />
           </a>{" "}
         </div>
 
