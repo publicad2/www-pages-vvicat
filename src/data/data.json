@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Chongqing Valiant Cat Technology Co., LTD",
+    "paragraph": "is a technology-driven mobile developer specializing in AI-related products. The company is committed to providing high-quality, efficient, and elegantly designed AI apps for users worldwide, enhancing user experience through innovative technology."
+  },
+  "About": {
+    "paragraph": "Chongqing Valiant Cat Technology Co., LTD is a technology-driven mobile developer specializing in AI-related products. The company is committed to providing high-quality, efficient, and elegantly designed AI apps for users worldwide, enhancing user experience through innovative technology.",
+    "Why": [
+      "Innovative Technology",
+      "High-Quality Products",
+      "Global Reach",
+      "User-Centric Design"
+    ],
+    "Why2": [
+      "Expert Team",
+      "Continuous Improvement",
+      "Customer Support",
+      "Trust and Integrity"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Innovative Technology",
+      "text": "Our company leverages cutting-edge AI technology to develop state-of-the-art applications that meet the evolving needs of our users."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "High-Quality Products",
+      "text": "We are dedicated to delivering high-quality, reliable AI applications that ensure a seamless user experience."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Global Reach",
+      "text": "Our products are designed for a global audience, ensuring accessibility and usability for users worldwide."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "User-Centric Design",
+      "text": "We prioritize user experience in every aspect of our product design, ensuring intuitive and elegant interfaces."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Continuous Improvement",
+      "text": "We are committed to continuous innovation and improvement, always seeking ways to enhance our products and services."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Trust and Integrity",
+      "text": "Our company culture is built on the values of trust, care, and delivering value, ensuring a trustworthy relationship with our users."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Optoelectronics Park Qilin Block D 12-06,CHONGQING,CHINA",
+    "phone": "+65 88604080",
+    "email": "tommy@vvicat.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Advanced AI Algorithms",
+      "text": "Our applications utilize state-of-the-art AI algorithms to provide intelligent, accurate, and efficient solutions for a variety of tasks, from data analysis to personalized recommendations."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Intuitive User Interface",
+      "text": "Designed with the user in mind, our applications feature clean, intuitive interfaces that make them easy to navigate and use, ensuring a seamless user experience."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Real-Time Processing",
+      "text": "Our AI applications are capable of processing data in real-time, offering immediate insights and responses, which is crucial for time-sensitive tasks and decisions."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Cross-Platform Compatibility",
+      "text": "Our products are designed to be compatible across multiple platforms and devices, ensuring that users can access and benefit from our AI solutions regardless of their preferred operating system or device."
+    }
+  ]
+}
