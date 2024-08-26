@@ -1,4 +1,5 @@
 import React from "react";
+import logo from './logo.svg';
 
 export const Navigation = (props) => {
   return (
@@ -20,7 +21,7 @@ export const Navigation = (props) => {
           <a className="navbar-brand page-scroll" href="#page-top">
             {/*React Landing Page*/}
             {/*Home*/}
-            <img src="logo.svg" alt="logo" />
+            <img src={logo} alt="logo" />
           </a>{" "}
         </div>
 
